@@ -1,0 +1,335 @@
+{
+  "47485": {/*Thalia, Guardian of Thraben*/
+    "DA_AA1": 73769,
+    "DA_AA2": 73770,
+    "DA_AA3": 73771,
+    "DA_AA4": 73772
+  },
+  "70152": {/*Ardenvale Tactician*/
+    "SH": 73688
+  },
+  "70158": {/*Faerie Guidemother*/
+    "SH": 73690
+  },
+  "70161": {/*Giant Killer*/
+    "SH": 73692
+  },
+  "70168": {/*Lonesome Unicorn*/
+    "SH": 73694
+  },
+  "70173": {/*Realm-Cloaked Giant*/
+    "SH": 73696
+  },
+  "70175": {/*Shepherd of the Flock*/
+    "SH": 73698
+  },
+  "70178": {/*Silverflame Squire*/
+    "SH": 73700
+  },
+  "70185": {/*Animating Faerie*/
+    "SH": 73702
+  },
+  "70186": {/*Brazen Borrower*/
+    "SH": 73704
+  },
+  "70191": {/*Fae of Wishes*/
+    "SH": 73706
+  },
+  "70196": {/*Hypnotic Sprite*/
+    "SH": 73708
+  },
+  "70200": {/*Merfolk Secretkeeper*/
+    "SH": 73710
+  },
+  "70208": {/*Queen of Ice*/
+    "SH": 73712
+  },
+  "70237": {/*Foulmire Knight*/
+    "SH": 73714
+  },
+  "70244": {/*Murderous Rider*/
+    "SH": 73716
+  },
+  "70246": {/*Order of Midnight*/
+    "SH": 73718
+  },
+  "70249": {/*Reaper of Night*/
+    "SH": 73720
+  },
+  "70252": {/*Smitten Swordmaster*/
+    "SH": 73722
+  },
+  "70262": {/*Bonecrusher Giant*/
+    "SH": 73724
+  },
+  "70269": {/*Embereth Shieldbreaker*/
+    "SH": 73726
+  },
+  "70278": {/*Merchant of the Vale*/
+    "SH": 73728
+  },
+  "70284": {/*Rimrock Knight*/
+    "SH": 73730
+  },
+  "70296": {/*Beanstalk Giant*/
+    "SH": 73732
+  },
+  "70297": {/*Curious Pair*/
+    "SH": 73734
+  },
+  "70302": {/*Flaxen Intruder*/
+    "SH": 73736
+  },
+  "70303": {/*Garenbrig Carver*/
+    "SH": 73738
+  },
+  "70312": {/*Lovestruck Beast*/
+    "SH": 73740
+  },
+  "70321": {/*Rosethorn Acolyte*/
+    "SH": 73742
+  },
+  "70327": {/*Tuinvale Treefolk*/
+    "SH": 73744
+  },
+  "70338": {/*Garruk, Cursed Huntsman*/
+    "MP": 73748
+  },
+  "70344": {/*Oko, Thief of Crowns*/
+    "MP": 73749
+  },
+  "70346": {/*The Royal Scions*/
+    "MP": 73750
+  },
+  "70359": {/*Oakhame Ranger*/
+    "SH": 73746
+  },
+  "70520": {/*Daxos, Blessed by the Sun*/
+    "SH": 73751
+  },
+  "70525": {/*Elspeth, Sun's Nemesis*/
+    "MP": 73762
+  },
+  "70529": {/*Heliod, Sun-Crowned*/
+    "SH": 73752
+  },
+  "70556": {/*Callaphe, Beloved of the Sea*/
+    "SH": 73753
+  },
+  "70582": {/*Thassa, Deep-Dwelling*/
+    "SH": 73754
+  },
+  "70604": {/*Erebos, Bleak-Hearted*/
+    "SH": 73755
+  },
+  "70630": {/*Tymaret, Chosen from Death*/
+    "SH": 73756
+  },
+  "70636": {/*Anax, Hardened in the Forge*/
+    "SH": 73757
+  },
+  "70661": {/*Purphoros, Bronze-Blooded*/
+    "SH": 73758
+  },
+  "70696": {/*Nylea, Keen-Eyed*/
+    "SH": 73759
+  },
+  "70707": {/*Renata, Called to the Hunt*/
+    "SH": 73760
+  },
+  "70719": {/*Ashiok, Nightmare Muse*/
+    "MP": 73763
+  },
+  "70722": {/*Calix, Destiny's Hand*/
+    "MP": 73764
+  },
+  "70731": {/*Klothys, God of Destiny*/
+    "SH": 73761
+  },
+  "71070": {/*Mysterious Egg*/
+    "TOHO": 73649
+  },
+  "71074": {/*Cubwarden*/
+    "SH": 73652
+  },
+  "71083": {/*Huntmaster Liger*/
+    "TOHO": 73516,
+    "SH": 73653
+  },
+  "71088": {/*Luminous Broodmoth*/
+    "TOHO": 73517
+  },
+  "71089": {/*Majestic Auricorn*/
+    "SH": 73654
+  },
+  "71104": {/*Vulpikeet*/
+    "SH": 73655
+  },
+  "71108": {/*Archipelagore*/
+    "SH": 73656
+  },
+  "71114": {/*Dreamtail Heron*/
+    "SH": 73657
+  },
+  "71130": {/*Pollywog Symbiote*/
+    "TOHO": 73518
+  },
+  "71131": {/*Pouncing Shoreshark*/
+    "SH": 73658
+  },
+  "71133": {/*Sea-Dasher Octopus*/
+    "SH": 73659
+  },
+  "71146": {/*Cavern Whisperer*/
+    "SH": 73660
+  },
+  "71147": {/*Chittering Harvester*/
+    "SH": 73661
+  },
+  "71151": {/*Dirge Bat*/
+    "TOHO": 73650,
+    "SH": 73662
+  },
+  "71160": {/*Insatiable Hemophage*/
+    "SH": 73663
+  },
+  "71171": {/*Void Beckoner*/
+    "TOHO": 73519
+  },
+  "71179": {/*Cloudpiercer*/
+    "SH": 73664
+  },
+  "71181": {/*Everquill Phoenix*/
+    "TOHO": 73520,
+    "SH": 73665
+  },
+  "71192": {/*Lukka, Coppercoat Outcast*/
+    "MP": 73765
+  },
+  "71195": {/*Porcuparrot*/
+    "SH": 73666
+  },
+  "71208": {/*Yidaro, Wandering Monster*/
+    "TOHO": 73521
+  },
+  "71211": {/*Auspicious Starrix*/
+    "SH": 73667
+  },
+  "71222": {/*Gemrazer*/
+    "TOHO": 73522,
+    "SH": 73668
+  },
+  "71223": {/*Glowstone Recluse*/
+    "SH": 73669
+  },
+  "71232": {/*Migratory Greathorn*/
+    "SH": 73670
+  },
+  "71241": {/*Titanoth Rex*/
+    "TOHO": 73523
+  },
+  "71242": {/*Vivien, Monsters' Advocate*/
+    "MP": 73766
+  },
+  "71245": {/*Boneyard Lurker*/
+    "SH": 73671
+  },
+  "71246": {/*Brokkos, Apex of Forever*/
+    "TOHO": 73524,
+    "SH": 73672
+  },
+  "71257": {/*Illuna, Apex of Wishes*/
+    "TOHO": 73525,
+    "SH": 73673
+  },
+  "71261": {/*Lore Drakkis*/
+    "SH": 73674
+  },
+  "71262": {/*Narset of the Ancient Way*/
+    "MP": 73767
+  },
+  "71263": {/*Necropanther*/
+    "SH": 73675
+  },
+  "71264": {/*Nethroi, Apex of Death*/
+    "TOHO": 73526,
+    "SH": 73676
+  },
+  "71266": {/*Parcelbeast*/
+    "SH": 73677
+  },
+  "71269": {/*Regal Leosaur*/
+    "SH": 73678
+  },
+  "71276": {/*Snapdax, Apex of the Hunt*/
+    "TOHO": 73527,
+    "SH": 73679
+  },
+  "71278": {/*Sprite Dragon*/
+    "TOHO": 73528
+  },
+  "71280": {/*Trumpeting Gnarr*/
+    "SH": 73680
+  },
+  "71281": {/*Vadrok, Apex of Thunder*/
+    "TOHO": 73529,
+    "SH": 73681
+  },
+  "71288": {/*Gyruda, Doom of Depths*/
+    "TOHO": 73530
+  },
+  "71301": {/*Crystalline Giant*/
+    "TOHO": 73651
+  },
+  "71315": {/*Indatha Triome*/
+    "SH": 73682
+  },
+  "71317": {/*Ketria Triome*/
+    "SH": 73683
+  },
+  "71318": {/*Raugrin Triome*/
+    "SH": 73684
+  },
+  "71320": {/*Savai Triome*/
+    "SH": 73685
+  },
+  "71326": {/*Zagoth Triome*/
+    "SH": 73686
+  },
+  "71783": {/*Ugin, the Spirit Dragon*/
+    "MP": 74652
+  },
+  "71789": {/*Basri Ket*/
+    "MP": 74653
+  },
+  "71795": {/*Containment Priest*/
+    "FF": 74646
+  },
+  "71857": {/*Teferi, Master of Time*/
+    "MP": 74654
+  },
+  "71885": {/*Grim Tutor*/
+    "FF": 74647
+  },
+  "71890": {/*Liliana, Waker of the Dead*/
+    "MP": 74655
+  },
+  "71896": {/*Massacre Wurm*/
+    "FF": 74648
+  },
+  "71917": {/*Chandra, Heart of Fire*/
+    "MP": 74656
+  },
+  "71959": {/*Cultivate*/
+    "FF": 74649
+  },
+  "71965": {/*Garruk, Unleashed*/
+    "MP": 74657
+  },
+  "71986": {/*Scavenging Ooze*/
+    "FF": 74650
+  },
+  "72021": {/*Solemn Simulacrum*/
+    "FF": 74651
+  }
+}
