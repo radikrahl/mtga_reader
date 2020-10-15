@@ -102,6 +102,4 @@ pub mod data_location {
         pub id: i64,
         pub text: String,
     }
-
-
 }

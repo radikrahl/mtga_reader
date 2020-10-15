@@ -42,11 +42,11 @@ pub mod data {
 }
 
 pub mod tests {
-    use crate::models::data_models::data_abilities::Ability;
-    use crate::models::data_models::data_location::Location;
-    use crate::models::data_models::data_cards::Card;
     use crate::data::Data;
     use crate::data::DataType;
+    use crate::models::data_models::data_abilities::Ability;
+    use crate::models::data_models::data_cards::Card;
+    use crate::models::data_models::data_location::Location;
     #[test]
     fn should_return_card() {
         let data: Data<Card> = Data::new(DataType::Cards);
